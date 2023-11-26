@@ -30,7 +30,6 @@
         "AUTH": {
             "description": "User ID of Bot owner.",
             "value": ""
-        },
         
         }
     },
